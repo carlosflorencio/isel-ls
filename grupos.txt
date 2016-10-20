@@ -1,0 +1,35 @@
+Com o objectivo de automatizar a criação dos repositórios no GitHub, solicito a edição (com fork e depois pull request) 
+deste ficheiro contendo uma linha por grupo com a seguinte estrutura:
+
+Gxx [id no GitHub] [id no GitHub] ...
+
+Exemplo:
+
+LI41D-G00 cguedes fbfreitas
+
+------------------------------------------------------------------------------------------------------
+LI41D-G01 AnaSequeira DiogoPoeira 
+LI41D-G02 hppsilva nunomdm fdiogo
+LI41D-G03 
+LI41D-G04  
+LI41D-G05 bmndantas 22mramanlal calmenelias
+LI41D-G06 
+LI41D-G07 josegandarez BeatrizPNeto ricardojmp
+LI41D-G08 brunofins NunoMales TBogalho
+LI41D-G09 a38862 carolMorais hestrompa
+LI41D-G10 marcomoreira92 mcjorge 
+LI41D-G11 sganhao lcduarte
+LI41D-G12 
+
+LI41N-G01 
+LI41N-G02 AnaViseu victorcmg
+LI41N-G03 nlaert jprisel
+LI41N-G04 
+LI41N-G05 NinjaPT Clefos oileh
+LI41N-G06 
+LI41N-G07 iamfreee OksanaDizdari
+LI41N-G08 
+LI41N-G09 
+LI41N-G10 
+LI41N-G11 
+LI41N-G12 

@@ -1,0 +1,49 @@
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    /* Margin bottom by footer height */
+    margin-bottom: 80px;
+}
+
+.wrap {
+    margin-top: 50px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 80px;
+}
+
+.navbar {
+	border: 0;
+}
+
+.center {
+  margin: 0 auto;
+}
+
+.logo {
+    width: 45%;
+}
+
+.jumbo {
+    background-color: #1c1e22;
+    padding: 40px  0 40px 0;
+    margin-bottom: 40px;
+}
+
+table {
+    font-size: 14px;
+}
+
+td {
+    vertical-align: middle !important;
+}
